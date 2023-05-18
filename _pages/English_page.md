@@ -2,7 +2,7 @@
 title: ""
 permalink: /English/
 author_profile: true
-excerpt: "My homepage in Chinese."
+excerpt: "My homepage in English."
 ---
 
 
