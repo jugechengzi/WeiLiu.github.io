@@ -1,5 +1,5 @@
 ---
-title: "个人主页"
+title: ""
 permalink: /English/
 author_profile: true
 excerpt: "My homepage in Chinese."
