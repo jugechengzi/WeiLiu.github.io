@@ -1,11 +1,8 @@
 ---
-permalink: /English/
-title: "About me"
-excerpt: "About me"
+title: "个人主页"
+permalink: /chinese/English_page
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+excerpt: "My homepage in Chinese."
 ---
 
 
