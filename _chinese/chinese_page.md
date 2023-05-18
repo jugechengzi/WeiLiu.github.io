@@ -1,7 +1,6 @@
 ---
 title: "个人主页"
 permalink: /English/chinese_page
-author_profile: true
 excerpt: "My homepage in Chinese."
 ---
 
