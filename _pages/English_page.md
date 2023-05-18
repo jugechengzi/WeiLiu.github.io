@@ -1,6 +1,6 @@
 ---
 title: "个人主页"
-permalink: /English
+permalink: /English/
 author_profile: true
 excerpt: "My homepage in Chinese."
 ---
