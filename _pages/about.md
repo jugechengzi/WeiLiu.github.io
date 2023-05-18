@@ -45,6 +45,7 @@ FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022, **<font color=r
     *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*
     
     
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rL71QO-aAGuIN0YNc9c-NFz4ChdB_9vxdJYfb3qmjnI&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rL71QO-aAGuIN0YNc9c-NFz4ChdB_9vxdJYfb3qmjnI&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=rL71QO-aAGuIN0YNc9c-NFz4ChdB_9vxdJYfb3qmjnI"></script>
 
 
