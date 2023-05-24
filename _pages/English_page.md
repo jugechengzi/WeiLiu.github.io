@@ -14,7 +14,9 @@ About me
 
 Publications
 ====
-- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipshitz Restraint (KDD 2023) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
+Notes: "**<font color=red>$\Delta$</font>**" means primarily recommended for reading.
+
+- **<font color=red>$^\Delta$</font>** Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipshitz Restraint (KDD 2023) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
 
 - MGR: Multi-generator Based Rationalization. (ACL 2023) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
