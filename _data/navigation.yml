@@ -4,4 +4,6 @@ main:
     url: /English/
 #   - title: "中文"
 #     url: /Chinese/
+  - title: "Publications"
+      url: /Publications/
 
