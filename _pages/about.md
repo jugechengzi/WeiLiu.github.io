@@ -34,16 +34,16 @@ redirect_from:
 ------
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023, **<font color=red>CCF-A</font>**) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
+- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023, **<font color=#00FFFF>CCF-A</font>**) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
 
-- MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>CCF-A</font>**) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
+- MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral</font>**, **<font color=#00FFFF>CCF-A</font>**) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*
 
-- Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation. (SIGIR 2023, **<font color=red>CCF-A</font>**)  
+- Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation. (SIGIR 2023, **<font color=#00FFFF>CCF-A</font>**)  
 *Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*
 
-- FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022, **<font color=red>CCF-A</font>**) [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
+- FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022, **<font color=#00FFFF>CCF-A</font>**) [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
     *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*
     
     
