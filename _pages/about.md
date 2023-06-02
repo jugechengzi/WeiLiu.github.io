@@ -22,6 +22,7 @@ redirect_from:
 
 最新消息
 ======
+2023.05， MGR is invited to be an \*oral\* representation at ACL.
 2023.05, 一篇论文被KDD 2023接收。  
 2023.05，一篇论文被ACL 2023接收为主会长文。  
 2023.04, 一篇合作论文被SIGIR 2023录用。   
