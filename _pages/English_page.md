@@ -10,7 +10,7 @@ About me
 ====
 - **Education:** I'm a Ph.D. student at Huazhong University of Science and Technology (HUST), China. 
 - **Advisor:** Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)
-- **Research Interests:**  Interpretability of machine learning, Natural Language Processing
+- **Research Interests:**  Interpretability of machine learning, Causal Inference, Information theory, Natural Language Processing.
 
 Publications
 ====
