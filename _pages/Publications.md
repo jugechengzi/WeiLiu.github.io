@@ -25,5 +25,5 @@ MGR: Multi-generator Based Rationalization
 ===
 - **Task:** Causal discovery from a perspective of causal feature selection
 - **Problem:** Previous causal discovery methods usually involve many assumptions for causal inference (e.g., the conditional independence assumed by a graphical model, and the ignorability of a SCM).
-- **Insights:** We provide some insights about how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
+- **Insights:** We provide some insights into how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
 
