@@ -47,7 +47,7 @@ Conference: KDD 2023 (**CCF A**), oral presentation (score: 4 4 4 3 3).
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*  
 Conference: ACL 2023 (**CCF A**), oral presentation (**<font color=red>Top 4%</font>**).
 
-- Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation.
+- Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation.  
 *Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*  
 Conference: SIGIR 2023 (**CCF A**).
 
