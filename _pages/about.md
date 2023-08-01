@@ -52,7 +52,7 @@ Conference: ACL 2023 (**CCF A**), oral presentation (**<font color=red>Top 4%</f
 Conference: SIGIR 2023 (**CCF A**).
 
 - FR: Folded Rationalization with a Unified Encoder. [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
-    *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*  
+    *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*    
   Conference: NeurIPS 2022 (**CCF A**).
     
     
