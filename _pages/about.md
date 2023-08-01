@@ -40,19 +40,19 @@ redirect_from:
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
-*__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
+*__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
 Conference: KDD 2023 (**CCF A**), oral presentation (score: 4 4 4 3 3).
 
 - MGR: Multi-generator Based Rationalization.  [paper](https://github.com/jugechengzi/Rationalization-MGR/blob/main/acl2023.pdf) [code](https://github.com/jugechengzi/Rationalization-MGR)    
-*__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*
+*__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*  
 Conference: ACL 2023 (**CCF A**), oral presentation (**<font color=red>Top 4%</font>**).
 
 - Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation.
-*Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*
+*Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*  
 Conference: SIGIR 2023 (**CCF A**).
 
 - FR: Folded Rationalization with a Unified Encoder. [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
-    *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*
+    *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*  
   Conference: NeurIPS 2022 (**CCF A**).
     
     
