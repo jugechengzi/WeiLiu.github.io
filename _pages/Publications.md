@@ -26,4 +26,4 @@ MGR: Multi-generator Based Rationalization
 - **Task:** Causal discovery from a perspective of causal feature selection
 - **Problem:** Previous causal discovery methods usually involve many assumptions for causal inference (e.g., the conditional independence assumed by a graphical model, and the ignorability of a SCM).
 - **Insights:** We provide some insights about how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
-- **Solution:** Sharing the encoders between the generator and the predictor, which is very simple and is compatible with many variants of this kind of two-player rationaliser/classifier games. 
+
