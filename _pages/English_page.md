@@ -19,7 +19,7 @@ Notes: "**$\Delta$**" means primarily recommended for reading.
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
 
-- MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral</font>**) [paper](https://github.com/jugechengzi/Rationalization-MGR/blob/main/acl2023.pdf) [code](https://github.com/jugechengzi/Rationalization-MGR)    
+- MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral, Top 4%</font>**) [paper](https://github.com/jugechengzi/Rationalization-MGR/blob/main/acl2023.pdf) [code](https://github.com/jugechengzi/Rationalization-MGR)    
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*
 
 - Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation. (SIGIR 2023)  
