@@ -41,7 +41,7 @@ Notes: "**$\Delta$**" means primarily recommended for reading.
 
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
-Conference: KDD 2023 (**CCF A**), oral presentation (score: 4 4 4 3 3).
+Conference: KDD 2023 (**CCF A**), score: 4 4 4 3 3.
 
 - MGR: Multi-generator Based Rationalization.  [paper](https://github.com/jugechengzi/Rationalization-MGR/blob/main/acl2023.pdf) [code](https://github.com/jugechengzi/Rationalization-MGR)    
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*  
