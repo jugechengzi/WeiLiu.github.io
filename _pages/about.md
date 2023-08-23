@@ -45,7 +45,7 @@ Notes: "**$\Delta$**" means primarily recommended for reading.
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
 Conference: KDD 2023 (**CCF A**), score: 4 4 4 3 3 (all papers are oral this year).
 
-- MGR: Multi-generator Based Rationalization.  [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
+- MGR: Multi-generator Based Rationalization.  [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR) [video](https://cdn.touzhiwang.com/video/market/ACL2023%E7%8E%8B%E4%BF%8A%E5%8D%9A%E5%A3%AB%E7%8E%B0%E5%9C%BA%E6%BC%94%E8%AE%B2%E8%A7%86%E9%A2%91.mp4)    
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*  
 Conference: ACL 2023 (**CCF A**), oral presentation (**<font color=red>Top 4%</font>**).
 
