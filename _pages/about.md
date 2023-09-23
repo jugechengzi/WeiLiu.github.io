@@ -43,8 +43,8 @@ redirect_from:
 ------
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- D-Separation for Causal Self-Explanation.
-*__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*
+- D-Separation for Causal Self-Explanation.  
+*__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
  Conference: NeurIPS 2023 (**CCF A**).  
 
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
