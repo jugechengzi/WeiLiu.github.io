@@ -43,7 +43,7 @@ redirect_from:
 ------
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- D-Separation for Causal Self-Explanation.  
+- D-Separation for Causal Self-Explanation. [paper](https://github.com/jugechengzi/Rationalization-MCD/blob/main/arxiv.pdf) [code](https://github.com/jugechengzi/Rationalization-MCD)   
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
  Conference: NeurIPS 2023 (**CCF A**).  
 
