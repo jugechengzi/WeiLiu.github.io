@@ -16,7 +16,7 @@ Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- D-Separation for Causal Self-Explanation. (NeurIPS 2023)   [paper](https://github.com/jugechengzi/Rationalization-MCD/blob/main/arxiv.pdf) [code](https://github.com/jugechengzi/Rationalization-MCD)       
+- D-Separation for Causal Self-Explanation. (NeurIPS 2023)   [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)       
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
 
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
