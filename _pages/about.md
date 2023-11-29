@@ -37,15 +37,15 @@ Notes: "**$\Delta$**" means primarily recommended for reading.
 
 - D-Separation for Causal Self-Explanation.**$^\Delta$** [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)   
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
- Conference: NeurIPS 2023 (**CCF A**).  
+ Conference: Neural Information Processing Systems (NeurIPS 2023, **CCF A**).  
 
 - Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
-Conference: KDD 2023 (**CCF A**), score: 4 4 4 3 3 (all papers are oral this year).
+Conference: ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2023, **CCF A**), score: 4 4 4 3 3 (all papers are oral this year).
 
 - MGR: Multi-generator Based Rationalization.  [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR) [video](https://cdn.touzhiwang.com/video/market/ACL2023%E7%8E%8B%E4%BF%8A%E5%8D%9A%E5%A3%AB%E7%8E%B0%E5%9C%BA%E6%BC%94%E8%AE%B2%E8%A7%86%E9%A2%91.mp4)      
 *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*  
-Conference: ACL 2023 (**CCF A**), oral presentation (**<font color=red>Top 4%</font>**).
+Conference: Meeting of the Association for Computational Linguistics (ACL 2023, **CCF A**), oral presentation (**<font color=red>Top 4%</font>**).
 
 - Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation.  
 *Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*  
@@ -53,7 +53,7 @@ Conference: SIGIR 2023 (**CCF A**).
 
 - FR: Folded Rationalization with a Unified Encoder. [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
     *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*    
-  Conference: NeurIPS 2022 (**CCF A**).
+  Conference: Neural Information Processing Systems (NeurIPS 2022, **CCF A**). 
 
 学术服务
 ------
