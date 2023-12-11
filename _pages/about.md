@@ -35,6 +35,10 @@ redirect_from:
 ------
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
+- Enhancing the Rationale-Input Alignment for Self-explaining Rationalization. [paper](https://arxiv.org/abs/2312.04103) [code](https://github.com/jugechengzi/dar)
+*__Wei Liu__, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li*
+Conference: [ICDE 2024](https://icde2024.github.io/) (**CCF A**).
+
 - D-Separation for Causal Self-Explanation.**$^\Delta$** [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)   
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
  Conference: [NeurIPS 2023](https://nips.cc/) (**CCF A**).  
