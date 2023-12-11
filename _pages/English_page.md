@@ -16,6 +16,10 @@ Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
+- Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
+*Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
+Conference: AAAI 2024.
+
 - Enhancing the Rationale-Input Alignment for Self-explaining Rationalization. [paper](https://arxiv.org/abs/2312.04103) [code](https://github.com/jugechengzi/dar)  
 *__Wei Liu__, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li*  
 Conference: [ICDE 2024](https://icde2024.github.io/).
