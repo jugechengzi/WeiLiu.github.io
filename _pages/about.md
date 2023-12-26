@@ -47,7 +47,7 @@ Conference: [ICDE 2024](https://icde2024.github.io/) (**CCF A**).
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
  Conference: [NeurIPS 2023](https://nips.cc/) (**CCF A**).  
 
-- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
+- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
 Conference: [KDD 2023](https://kdd.org/kdd2023/) (**CCF A**), score: 4 4 4 3 3 (all papers are oral this year).
 
