@@ -27,7 +27,7 @@ Conference: [ICDE 2024](https://icde2024.github.io/).
 - D-Separation for Causal Self-Explanation.**$^\Delta$** (NeurIPS 2023)   [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)       
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
 
-- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023) [paper](https://arxiv.org/abs/2305.13599) [code](https://github.com/jugechengzi/Rationalization-DR)  
+- Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.**$^\Delta$** (KDD 2023) [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
 
 - MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral, Top 4%</font>**) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
