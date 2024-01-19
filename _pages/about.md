@@ -63,9 +63,6 @@ Conference: SIGIR 2023 (**CCF A**).
     *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*    
   Conference: [NeurIPS 2022](https://nips.cc/) (**CCF A**). 
 
-学术服务
-------
-审稿：ACL ARR.
   
     
     
