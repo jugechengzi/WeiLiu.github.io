@@ -32,7 +32,8 @@ redirect_from:
  
 
 学术论文
-------
+======
+
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
 - Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
@@ -61,7 +62,12 @@ Conference: SIGIR 2023 (**CCF A**).
 
 - FR: Folded Rationalization with a Unified Encoder. [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
     *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*    
-  Conference: [NeurIPS 2022](https://nips.cc/) (**CCF A**). 
+  Conference: [NeurIPS 2022](https://nips.cc/) (**CCF A**).
+
+
+学术服务
+======
+Great reviewer of ACL ARR 2023 December.
 
   
     
