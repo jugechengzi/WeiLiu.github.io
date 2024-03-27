@@ -65,9 +65,7 @@ Conference: SIGIR 2023 (**CCF A**).
   Conference: [NeurIPS 2022](https://nips.cc/) (**CCF A**).
 
 
-学术服务
-======
-Great reviewer of ACL ARR 2023 December.
+
 
   
     
