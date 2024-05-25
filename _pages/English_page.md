@@ -12,6 +12,8 @@ About me
 - **Advisor:** Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)
 - **Research Interests:**  Interpretability of machine learning, Causal Inference, Information theory, Natural Language Processing.
 
+- My recent research has been concentrating on various issues related to large language models and causal theory. I am looking for collaboration partners, and interested individuals are welcome to contact me.
+
 Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
