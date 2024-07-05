@@ -14,6 +14,10 @@ About me
 
 - My recent research has been concentrating on various issues related to large language models and causal theory. I am looking for collaboration partners, and interested individuals are welcome to contact me.
 
+News
+===
+- I graduate from HUST at June, 2024.
+
 Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
