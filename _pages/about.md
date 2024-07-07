@@ -24,6 +24,7 @@ redirect_from:
 最新消息
 ======
 
+入选华为天才少年计划。  
 2024.05, 腾讯奖学金。  
 2023.10, 博士生国家奖学金(排名第一)。  
 2023.08, 我们对当前的一系列工作做了总结分享：[自解释自然语言模型新探索](https://mp.weixin.qq.com/s/KmRYp6TzhpK8l5pV8rgbNg)。  
@@ -37,6 +38,7 @@ redirect_from:
 
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
+I am happy to say that a recent paper called [SSR](https://arxiv.org/abs/2403.07955) has taken our FR as a backbone. Congratulations on the great work of Yue et.al. and thanks for the citation. I also find that several recent works, such as [GR](https://ojs.aaai.org/index.php/AAAI/article/download/29783/31352) and [YOFO](https://arxiv.org/abs/2311.02344), have designed their experiments based on our open source code. Congratulations to all of them and I am really happy to know that my work is helping others.
 
 - Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
 *Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
