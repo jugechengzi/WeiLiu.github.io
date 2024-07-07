@@ -37,7 +37,6 @@ redirect_from:
 
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-We find that a recent paper called [SSR](https://arxiv.org/abs/2403.07955) has taken our FR as a backbone. Congratulations on the great work of Yue et.al. and thanks for the citation.
 
 - Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
 *Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
