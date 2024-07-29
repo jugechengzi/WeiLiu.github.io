@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei Liu (刘伟)"
+  googlescholar    : "https://scholar.google.com/citations?user=bG4dvGoAAAAJ&hl=zh-CN"
   avatar           : "dengjizhao.png"
   bio              : "HUST"
   location         : "Wuhan, China"
