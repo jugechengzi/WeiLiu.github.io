@@ -42,6 +42,10 @@ Notes: "**$\Delta$**" means primarily recommended for reading.
 
 I am happy to say that a recent paper called [SSR](https://arxiv.org/abs/2403.07955) has taken our FR as a backbone. Congratulations on the great work of Yue et.al. and thanks for their citation. I also find that several recent works, such as [GR](https://ojs.aaai.org/index.php/AAAI/article/download/29783/31352) and [YOFO](https://arxiv.org/abs/2311.02344), have designed their experiments based on our open source code. Congratulations to all of them and I am really happy to know that my work is helping others.
 
+- Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization.  
+*__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
+Conference: [NeurIPS 2024](https://nips.cc/) (**CCF A**). 
+
 - Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
 *Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
 Conference: AAAI 2024 (**CCF A**).
