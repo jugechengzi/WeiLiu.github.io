@@ -22,6 +22,10 @@ Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
+- Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization.**$^\Delta$** [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
+*__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
+Conference: NeurIPS 2024. 
+
 - Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
 *Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
 Conference: AAAI 2024.
