@@ -22,7 +22,7 @@ Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- **$\Delta$**Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization.**$^\Delta$** [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
+- **$^\Delta$** Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
 *__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
 Conference: NeurIPS 2024. 
 
@@ -34,10 +34,10 @@ Conference: AAAI 2024.
 *__Wei Liu__, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li*  
 Conference: [ICDE 2024](https://icde2024.github.io/).
 
-- **$^\Delta$**D-Separation for Causal Self-Explanation. (NeurIPS 2023)   [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)       
+- **$^\Delta$** D-Separation for Causal Self-Explanation. (NeurIPS 2023)   [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)       
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
 
-- **$^\Delta$**Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint. (KDD 2023) [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
+- **$^\Delta$** Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint. (KDD 2023) [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
 
 - MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral, Top 4%</font>**) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
