@@ -17,7 +17,12 @@ Education
 Work experience
 ======
 * 2024-: Postdoc in Huazhong University of Science and Technology
-  
+
+Research Interests
+======
+ My research primarily focuses on explainable artificial intelligence, utilizing theoretical tools such as causality, probabilistic graphical models, and information theory. I have published a series of papers in the field of explainable AI, including top-tier machine learning conferences such as NeurIPS, KDD, and ACL. The objective of my work is to identify simple and principled approaches that are both practical and scalable. 
+
+Currently, I am interested in various research areas related to large language models, especially data quality and interpretability.
 
 Publications
 ======
