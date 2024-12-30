@@ -10,13 +10,15 @@ About me
 ====
 - **Education:** I'm a Ph.D. student at Huazhong University of Science and Technology (HUST), China. 
 - **Advisor:** Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)
-- **Research Interests:**  Interpretability of machine learning, Causal Inference, Information theory, Natural Language Processing.
+
+Research
+====
+- **Theory:** Causality, information theory.
+- **Applications:** Interpretability, natural language processing
 
 - My recent research has been concentrating on various issues related to large language models and causal theory. I am looking for collaboration partners, and interested individuals are welcome to contact me.
 
-News
-===
-- I graduate from HUST at June, 2024.
+
 
 Publications
 ====
