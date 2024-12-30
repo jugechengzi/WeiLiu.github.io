@@ -6,4 +6,6 @@ main:
 #     url: /Chinese/
   - title: "Publications"
     url: /Publications/
+  - title: "CV"
+    url: /cv/
 
