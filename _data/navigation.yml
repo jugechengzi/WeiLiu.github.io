@@ -2,7 +2,7 @@
 main:
   # - title: "English"
   #   url: /English/
-  - title: "中文"
+  - title: "Chinese"
     url: /Chinese/
   # - title: "Publications"
   #   url: /Publications/
