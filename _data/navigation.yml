@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "English"
-    url: /English/
-#   - title: "中文"
-#     url: /Chinese/
-  - title: "Publications"
-    url: /Publications/
+  # - title: "English"
+  #   url: /English/
+  - title: "中文"
+    url: /Chinese/
+  # - title: "Publications"
+  #   url: /Publications/
   - title: "CV"
     url: /cv/
 
