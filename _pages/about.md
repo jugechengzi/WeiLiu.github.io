@@ -10,8 +10,7 @@ redirect_from:
 
 About me
 ====
-- **Education:** I'm a Ph.D. student at Huazhong University of Science and Technology (HUST), China. 
-- **Advisor:** Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)
+I am currently a postdoc at Huazhong University of Science and Technology (HUST), China. Before that, I got my Ph.D. in HUST in 2024 (Advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and got my B.S. in HUST in 2019. 
 
 Research
 ====
