@@ -1,5 +1,5 @@
 ---
-title: "中文版"
+title: "Chinese"
 permalink: /Chinese/
 author_profile: true
 excerpt: "My homepage in Chinese."
