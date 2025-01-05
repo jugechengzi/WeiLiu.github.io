@@ -10,7 +10,8 @@ redirect_from:
 
 About me
 ====
-I am currently a postdoc at Huazhong University of Science and Technology (HUST), China. Before that, I got my Ph.D. in HUST in 2024 (Advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and got my B.S. in HUST in 2019. 
+I am currently a postdoctoral researcher at Huazhong University of Science and Technology (HUST), China. Previously, I received my Ph.D. from HUST in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
+
 
 Research
 ====
