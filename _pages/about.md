@@ -18,7 +18,7 @@ Research
 - **Theory:** Causality, information theory.
 - **Applications:** Interpretability, natural language processing
 
-- My recent research has been concentrating on various issues related to large language models and causal theory. I am looking for collaboration partners, and interested individuals are welcome to contact me.
+- My recent research has been concentrating on various issues related to large language models and causality. I am looking for collaboration partners, and interested individuals are welcome to contact me.
 
 
 
