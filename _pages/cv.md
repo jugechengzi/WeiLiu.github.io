@@ -28,33 +28,28 @@ Publications
 ======
   Notes: "**$\Delta$**" means primarily recommended for reading.
 
-- **$^\Delta$** Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
-*__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
-Conference: NeurIPS 2024. 
+**Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. "[Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003)". In NeurIPS 2024. 
 
-- Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling.  
-*Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang, __Wei Liu__, Yao Wu, Tao Zhang, Ruixuan Li.*  
-Conference: AAAI 2024.
+**Wei Liu**, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li. "[Enhancing the Rationale-Input Alignment for Self-explaining Rationalization](https://arxiv.org/pdf/2312.04103)". In ICDE 2024.
 
-- Enhancing the Rationale-Input Alignment for Self-explaining Rationalization. [paper](https://arxiv.org/abs/2312.04103) [code](https://github.com/jugechengzi/dar)  
-*__Wei Liu__, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li*  
-Conference: [ICDE 2024](https://icde2024.github.io/).
+Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang,**Wei Liu**, Yao Wu, Tao Zhang, Ruixuan Li. "[Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling](https://arxiv.org/pdf/2312.13495)". In AAAI 2024.   
 
-- **$^\Delta$** D-Separation for Causal Self-Explanation. (NeurIPS 2023)   [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)       
-*__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
+    
+**Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. "[D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391)". In NeurIPS 2023.
 
-- **$^\Delta$** Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint. (KDD 2023) [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
-*__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*
+    
+**Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. "[Decoupled Rationalization with Asymmetric Learning Rates: A
+Flexible Lipschitz Restraint](https://arxiv.org/pdf/2305.13599)". In KDD 2023.
 
-- MGR: Multi-generator Based Rationalization. (ACL 2023, **<font color=red>Oral, Top 4%</font>**) [paper](https://arxiv.org/abs/2305.04492) [code](https://github.com/jugechengzi/Rationalization-MGR)    
-*__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, Yuankai Zhang, Yang Qiu*
 
-- Multi-view Multi-aspect Neural Networks for Next-Basket Recommendation. (SIGIR 2023)  
-*Zhiying Deng, Jianjun Li, Zhiqiang Guo, __Wei Liu__, Li Zou, Guohui Li*
+**Wei Liu**, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, YuanKai Zhang, Yang Qiu. "[MGR: Multi-generator Based Rationalization](https://arxiv.org/pdf/2305.04492)". In ACL 2023 (oral presentation).
 
-- FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022) [paper](https://arxiv.org/pdf/2209.08285.pdf) [code](https://github.com/jugechengzi/FR) [video](https://slideslive.com/38990450/fr-folded-rationalization-with-a-unified-encoder?ref=search-presentations-folded+rationalization)  
-    *__Wei Liu__, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang*
-  
+Zhiying Deng, Jianjun Li, Zhiqiang Guo, **Wei Liu**, Li Zou, Guohui Li. "[Multi-view Multi-aspect Neural Networks for Next-basket Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591738)". In SIGIR 2023.
+ 
+**Wei Liu**, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang. "[FR: Folded Rationalization with a Unified Encoder](https://arxiv.org/pdf/2209.08285)". In NeurIPS 2022.
+   
+        
+
 
   
 
