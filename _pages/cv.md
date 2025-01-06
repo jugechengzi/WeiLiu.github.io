@@ -28,17 +28,17 @@ Publications
 ======
   Notes: "**$\Delta$**" means primarily recommended for reading.
 
-1. **Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. "**$\Delta$**[Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003)". In NeurIPS 2024. 
+1. **Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. **$\Delta$**"[Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003)". In NeurIPS 2024. 
 
 1. **Wei Liu**, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li. "[Enhancing the Rationale-Input Alignment for Self-explaining Rationalization](https://arxiv.org/pdf/2312.04103)". In ICDE 2024.
 
 1. Jie Han, Yixiong Zou, Haozhao Wang, Jun Wang,**Wei Liu**, Yao Wu, Tao Zhang, Ruixuan Li. "[Decoupling Representation and Knowledge for Few-Shot Intent Classification and Slot Filling](https://arxiv.org/pdf/2312.13495)". In AAAI 2024.   
 
     
-1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. "**$\Delta$**[D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391)". In NeurIPS 2023.
+1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. **$\Delta$**"[D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391)". In NeurIPS 2023.
 
     
-1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. "**$\Delta$**[Decoupled Rationalization with Asymmetric Learning Rates: A
+1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. **$\Delta$**"[Decoupled Rationalization with Asymmetric Learning Rates: A
 Flexible Lipschitz Restraint](https://arxiv.org/pdf/2305.13599)". In KDD 2023.
 
 
