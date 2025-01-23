@@ -27,7 +27,7 @@ Publications
 Notes: "**$\Delta$**" means primarily recommended for reading.
 
 - Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization. [paper](https://openreview.net/forum?id=WZ0s2smcKP)  
-  *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li
+  *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li  
   Conference: ICLR 2025.
 
 - **$^\Delta$** Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
