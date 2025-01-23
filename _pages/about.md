@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ====
-I am currently a postdoctoral researcher at Huazhong University of Science and Technology (HUST), China. Previously, I received my Ph.D. from HUST in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
+I am currently a research assistant at Huazhong University of Science and Technology (HUST, a top 10 university in China). Previously, I received my Ph.D. from HUST in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
 
 
 Research
@@ -25,6 +25,10 @@ Research
 Publications
 ====
 Notes: "**$\Delta$**" means primarily recommended for reading.
+
+- Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization. [paper](https://openreview.net/forum?id=WZ0s2smcKP)  
+  *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li
+  Conference: ICLR 2025.
 
 - **$^\Delta$** Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
 *__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
