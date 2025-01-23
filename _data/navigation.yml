@@ -4,8 +4,8 @@ main:
   #   url: /English/
   - title: "Chinese"
     url: /Chinese/
-  # - title: "Publications"
-  #   url: /Publications/
+  - title: "Publications"
+    url: /Publications/
   - title: "CV"
     url: /cv/
 
