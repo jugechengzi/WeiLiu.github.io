@@ -27,3 +27,15 @@ MGR: Multi-generator Based Rationalization
 - **Problem:** Previous causal discovery methods usually involve many assumptions for causal inference (e.g., the conditional independence assumed by a graphical model, and the ignorability of a SCM).
 - **Insights:** We provide some insights into how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://via.placeholder.com/150" alt="dengjizhao.png" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <h3 style="margin: 0;">深度学习中的新突破</h3>
+    <p style="margin: 5px 0 10px;">作者: 张三, 李四</p>
+    <p style="margin: 5px 0 10px;">会议/期刊: NeurIPS 2023</p>
+    <p style="margin: 5px 0 10px;">简介: 该论文提出了一种新型神经网络架构，显著提升了图像分类任务的准确率。</p>
+    <a href="https://example.com" style="color: #0366d6; text-decoration: none;">阅读全文</a>
+  </div>
+</div>
+
+
