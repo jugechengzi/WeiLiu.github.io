@@ -5,6 +5,17 @@ author_profile: true
 excerpt: ""
 ---
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/dengjizhao.png" alt="test2" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <h3 style="margin: 0;">FR: Folded Rationalization with a Unified Encoder</h3>
+    <p style="margin: 5px 0 10px;">Authors: <b>Wei Liu</b>, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang </p>
+    <p style="margin: 5px 0 10px;">Conference: NeurIPS 2022</p>
+    <p style="margin: 5px 0 10px;">Task: Self-explaining rationalization in NLP. Problem: Degeneration. That's to say, in a cooperative game, the predictor and the generator (i.e., rationalizer) may collude to use uninformative rationale candidates to get the right label.</p>
+    <p style="margin: 5px 0 10px;">Insights: If the whole model achieves high prediction accuracy, the generator can always learn the true semantic. Solution: Sharing the encoders between the generator and the predictor, which is very simple and is compatible with many variants of this kind of two-player rationaliser/classifier games. </p>
+  </div>
+</div>
+
 [FR: Folded Rationalization with a Unified Encoder. (NeurIPS 2022)](https://arxiv.org/pdf/2209.08285.pdf)
 ===
 - **Task:** Self-explaining rationalization in NLP
@@ -26,6 +37,8 @@ MGR: Multi-generator Based Rationalization
 - **Task:** Causal discovery from a perspective of causal feature selection
 - **Problem:** Previous causal discovery methods usually involve many assumptions for causal inference (e.g., the conditional independence assumed by a graphical model, and the ignorability of a SCM).
 - **Insights:** We provide some insights into how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
+
+  
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="../images/dengjizhao.png" alt="test2" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
