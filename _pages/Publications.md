@@ -8,11 +8,12 @@ excerpt: ""
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="../images/dengjizhao.png" alt="test2" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
   <div>
-    <h3 style="margin: 0;">FR: Folded Rationalization with a Unified Encoder</h3>
+    <h3 style="margin: 0;">FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022).</h3>
     <p style="margin: 5px 0 10px;">Authors: <b>Wei Liu</b>, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang </p>
-    <p style="margin: 5px 0 10px;">Conference: NeurIPS 2022</p>
-    <p style="margin: 5px 0 10px;">Task: Self-explaining rationalization in NLP. Problem: Degeneration. That's to say, in a cooperative game, the predictor and the generator (i.e., rationalizer) may collude to use uninformative rationale candidates to get the right label.</p>
-    <p style="margin: 5px 0 10px;">Insights: If the whole model achieves high prediction accuracy, the generator can always learn the true semantic. Solution: Sharing the encoders between the generator and the predictor, which is very simple and is compatible with many variants of this kind of two-player rationaliser/classifier games. </p>
+    <p style="margin: 5px 0 10px;"><b>Task</b>: Self-explaining rationalization in NLP.</p>
+    <p style="margin: 5px 0 10px;"><b>Problem</b>: Degeneration. That's to say, in a cooperative game, the predictor and the generator (i.e., rationalizer) may collude to use uninformative rationale candidates to get the right label.</p>
+    <p style="margin: 5px 0 10px;"><b>Insights</b>: If the whole model achieves high prediction accuracy, the generator can always learn the true semantic. </p>
+    <p style="margin: 5px 0 10px;"><b>Solution</b>: Sharing the encoders between the generator and the predictor, which is very simple and is compatible with many variants of this kind of two-player rationaliser/classifier games. </p>
   </div>
 </div>
 
