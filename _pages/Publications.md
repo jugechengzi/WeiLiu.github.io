@@ -28,7 +28,7 @@ MGR: Multi-generator Based Rationalization
 - **Insights:** We provide some insights into how to select causal features from a purely probabilistic perspective, which doesn't involve the above assumptions.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/dengjizhao.png" alt="test1" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
+  <img src="../images/dengjizhao.png" alt="test1" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin: 0;">深度学习中的新突破</h3>
     <p style="margin: 5px 0 10px;">作者: 张三, 李四</p>
