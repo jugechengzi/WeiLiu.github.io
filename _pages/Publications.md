@@ -5,8 +5,8 @@ author_profile: true
 excerpt: ""
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/neurips22.png" alt="test2" style="width: 800px; height: auto; margin-right: 20px; border-radius: 5px;">
+<div style="margin-bottom: 20px; overflow: hidden;">
+  <img src="../images/neurips22.png" alt="test2" style="width: 800px; height: auto; float: left; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin: 0;">FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022).</h3>
     <p style="margin: 5px 0 10px;">Authors: <b>Wei Liu</b>, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang </p>
