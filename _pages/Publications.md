@@ -8,7 +8,7 @@ excerpt: ""
 <div style="margin-bottom: 20px; overflow: hidden;">
   <img src="../images/neurips22.png" alt="test2" style="width: 600px; height: auto; float: left; margin-right: 20px; border-radius: 5px;">
   <div>
-    <h3 style="margin: 0;">FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022).</h3>
+    <h3 style="margin: 0;">1FR: Folded Rationalization with a Unified Encoder (NeurIPS 2022).</h3>
     <p style="margin: 5px 0 10px;">Authors: <b>Wei Liu</b>, Haozhao Wang, Jun Wang, Ruixuan Li, Chao Yue, Yuankai Zhang </p>
     <p style="margin: 5px 0 10px;"><b>Task</b>: Self-explaining rationalization in NLP.</p>
     <p style="margin: 5px 0 10px;"><b>Problem</b>: Degeneration. That's to say, in a cooperative game, the predictor and the generator (i.e., rationalizer) may collude to use uninformative rationale candidates to get the right label.</p>
