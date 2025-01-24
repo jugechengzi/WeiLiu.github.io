@@ -18,7 +18,14 @@ excerpt: ""
 </div>
 
 
-
+<iframe 
+    src="https://www.youtube.com/watch?v=we-IvfxuDuU" 
+    width="560" 
+    height="315" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 [Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint.  (KDD 2023)](https://arxiv.org/abs/2305.13599)
 ===
