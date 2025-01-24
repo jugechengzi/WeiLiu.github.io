@@ -12,7 +12,7 @@ excerpt: ""
     <p style="margin: 5px 0 10px;"><b>Problem</b>: Degeneration. That's to say, in a cooperative game, the predictor and the generator (i.e., rationalizer) may collude to use uninformative rationale candidates to get the right label.</p>
     <p style="margin: 5px 0 10px;"><b>Insights</b>: If the whole model achieves high prediction accuracy, the generator can always learn the true semantic. </p>
     <p style="margin: 5px 0 10px;"><b>Solution</b>: Sharing the encoders between the generator and the predictor, which is very simple and is compatible with many variants of this kind of two-player rationaliser/classifier games. </p>
-  <img src="../images/neurips22.png" alt="test2" style="width: 600px; height: auto; margin-top: 20px; display: block; border-radius: 5px;">
+  <img src="../images/neurips22.png" alt="test2" style="width: 900px; height: auto; margin-top: 20px; display: block; border-radius: 5px;">
 </div>
 
 
