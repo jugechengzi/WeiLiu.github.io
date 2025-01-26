@@ -13,6 +13,8 @@ About me
 I am currently a research assistant at Huazhong University of Science and Technology (HUST, a top 10 university in China). Previously, I received my Ph.D. from HUST in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
 
 
+
+
 Research
 ====
 - **Theory:** Causality, information theory.
@@ -20,6 +22,7 @@ Research
 
 - My recent research has been concentrating on various issues related to large language models and causality. I am looking for collaboration partners, and interested individuals are welcome to contact me.
 
+View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//Publications/). 
 
 
 Publications
