@@ -25,7 +25,7 @@ the conditional distribution occur only when causal features are eliminated. Bas
 on this discovery, the paper proposes a criterion for Maximizing the Remaining
 Discrepancy (MRD). 
 
-3. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. [Decoupled Rationalization with Asymmetric Learning Rates: A
+1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. [Decoupled Rationalization with Asymmetric Learning Rates: A
 Flexible Lipschitz Restraint](https://arxiv.org/pdf/2305.13599). In KDD 2023.
 
 **Summary**: A self-explaining rationalization model is generally constructed
@@ -42,8 +42,8 @@ flexibly restrain the Lipschitz constant of the predictor, to address
 the problem of degeneration. The main idea of DR is to decouple
 the generator and predictor to allocate them with asymmetric learning rates. 
 
-5. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. [D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391). In NeurIPS 2023.
-6. 
+1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. [D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391). In NeurIPS 2023.
+   
 **Summary**:  Conventional rationalization methods can be
 influenced by spurious features that correlate with the causal rationale or the target
 label. Instead of attempting to rectify the issues of traditional methods, we propose a novel criterion to uncover the causal rationale, termed the Minimum Conditional
