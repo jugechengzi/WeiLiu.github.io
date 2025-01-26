@@ -5,7 +5,7 @@ author_profile: true
 excerpt: ""
 ---
 
-1. **Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. [Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003). In NeurIPS 2024.
+- **Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. [Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003). In NeurIPS 2024.
 
 **Summary**:  The most widely used criterion for
 interpretability is the maximum mutual information (MMI) criterion. However,
@@ -25,7 +25,7 @@ the conditional distribution occur only when causal features are eliminated. Bas
 on this discovery, the paper proposes a criterion for Maximizing the Remaining
 Discrepancy (MRD). 
 
-1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. [Decoupled Rationalization with Asymmetric Learning Rates: A
+- **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou. [Decoupled Rationalization with Asymmetric Learning Rates: A
 Flexible Lipschitz Restraint](https://arxiv.org/pdf/2305.13599). In KDD 2023.
 
 **Summary**: A self-explaining rationalization model is generally constructed
@@ -42,7 +42,7 @@ flexibly restrain the Lipschitz constant of the predictor, to address
 the problem of degeneration. The main idea of DR is to decouple
 the generator and predictor to allocate them with asymmetric learning rates. 
 
-1. **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. [D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391). In NeurIPS 2023.
+- **Wei Liu**, Jun Wang, Haozhao Wang, Ruixuan Li, Zhiying Deng, YuanKai Zhang, Yang Qiu. [D-Separation for Causal Self-Explanation](https://arxiv.org/pdf/2309.13391). In NeurIPS 2023.
    
 **Summary**:  Conventional rationalization methods can be
 influenced by spurious features that correlate with the causal rationale or the target
