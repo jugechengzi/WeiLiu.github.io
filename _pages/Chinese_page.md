@@ -36,15 +36,12 @@ ACM-Wuhan优秀博士论文奖（武汉市仅2人），并被推荐参评ACM-Chi
 学术论文
 ======
 
-Notes: "**$\Delta$**" means primarily recommended for reading.
-
-I am happy to say that a recent paper called [SSR](https://arxiv.org/abs/2403.07955) has taken our FR as a backbone. Congratulations on the great work of Yue et.al. and thanks for their citation. I also find that several recent works, such as [GR](https://ojs.aaai.org/index.php/AAAI/article/download/29783/31352) and [YOFO](https://arxiv.org/abs/2311.02344), have designed their experiments based on our open source code. Congratulations to all of them and I am really happy to know that my work is helping others.
 
 - Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization. [paper](https://openreview.net/forum?id=WZ0s2smcKP)  
   *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li  
   Conference: ICLR 2025.
 
-- **$^\Delta$** Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
+-  Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
 *__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li*  
 Conference: [NeurIPS 2024](https://nips.cc/) (**CCF A**). 
 
@@ -56,11 +53,11 @@ Conference: AAAI 2024 (**CCF A**).
 *__Wei Liu__, Haozhao Wang, Jun Wang, Zhiying Deng, YuanKai Zhang, Cheng Wang, Ruixuan Li*  
 Conference: [ICDE 2024](https://icde2024.github.io/) (**CCF A**).
 
-- **$^\Delta$** D-Separation for Causal Self-Explanation. [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)   
+-  D-Separation for Causal Self-Explanation. [paper](https://arxiv.org/abs/2309.13391) [code](https://github.com/jugechengzi/Rationalization-MCD)   
 *__Wei Liu__, Jun Wang, Haozhao Wang,  Ruixuan Li, Zhiying Deng, Yuankai Zhang, Yang Qiu*  
  Conference: [NeurIPS 2023](https://nips.cc/) (**CCF A**).  
 
-- **$^\Delta$** Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint. [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
+-  Decoupled Rationalization with Asymmetric Learning Rates: A Flexible Lipschitz Restraint. [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599299) [code](https://github.com/jugechengzi/Rationalization-DR)  
 *__Wei Liu__, Jun Wang, Haozhao Wang, Ruixuan Li, Yang Qiu, YuanKai Zhang, Jie Han, Yixiong Zou*  
 Conference: [KDD 2023](https://kdd.org/kdd2023/) (**CCF A**).
 
