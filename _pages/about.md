@@ -28,7 +28,10 @@ View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//P
 Publications
 ====
 
-
+- Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization.
+*__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li
+In TACL 2025 (to appear).
+ 
 - Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization. [paper](https://openreview.net/forum?id=WZ0s2smcKP)  
   *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li  
   Conference: ICLR 2025.
