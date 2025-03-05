@@ -28,7 +28,7 @@ View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//P
 Publications
 ====
 
-- Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization.
+- Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization.  
 *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li
 In TACL 2025 (to appear).
  
