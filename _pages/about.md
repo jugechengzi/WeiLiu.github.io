@@ -28,12 +28,16 @@ View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//P
 Publications
 ====
 
+- Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets.  
+*__Wei Liu__, Zhongyu Niu, Lang Gao, Zhiying Deng, Jun Wang, Haozhao Wang, Ruixuan Li*  
+  Conference: ICML 2025.
+
 - Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization.  
-*__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li  
+*__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li*  
 In TACL 2025 (to appear).
  
 - Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization. [paper](https://openreview.net/forum?id=WZ0s2smcKP) [code](https://github.com/jugechengzi/Rationalization-N2R)   
-  *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li  
+  *__Wei Liu__, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Zhigang Zeng, Ruixuan Li*  
   Conference: ICLR 2025.
 
 -  Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization. [paper](https://arxiv.org/abs/2410.06003) [code](https://github.com/jugechengzi/Rationalization-MRD)   
