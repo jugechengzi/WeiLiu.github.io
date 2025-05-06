@@ -36,6 +36,10 @@ ACM-Wuhan优秀博士论文奖（武汉市仅2人），并被推荐参评ACM-Chi
 学术论文
 ======
 
+- Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets. [paper](https://arxiv.org/abs/2505.02118) [code](https://github.com/jugechengzi/Rationalization-A2I)    
+*__Wei Liu__, Zhongyu Niu, Lang Gao, Zhiying Deng, Jun Wang, Haozhao Wang, Ruixuan Li*  
+  Conference: ICML 2025. (**CCF A**)
+
 - Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization.  
 *__Wei Liu__*, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li  
 In TACL 2025 (**SCI Q1**).
