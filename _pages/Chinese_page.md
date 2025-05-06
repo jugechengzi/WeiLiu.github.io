@@ -23,8 +23,7 @@ excerpt: "My homepage in Chinese."
 最新消息
 ======
 
-ACM-Wuhan优秀博士论文奖（武汉市仅2人），并被推荐参评ACM-China优博（武汉市仅1人）。  
-入选华为天才少年计划。  
+ACM-Wuhan优秀博士论文奖（武汉市仅2人），并被推荐参评ACM-China优博（武汉市仅1人）。    
 2024.05, 腾讯奖学金。  
 2023.10, 博士生国家奖学金(排名第一)。  
 2023.08, 我们对当前的一系列工作做了总结分享：[自解释自然语言模型新探索](https://mp.weixin.qq.com/s/KmRYp6TzhpK8l5pV8rgbNg)。  
