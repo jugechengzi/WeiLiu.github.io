@@ -28,7 +28,7 @@ View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//P
 Publications
 ====
 
-- Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets.  
+- Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets. [paper](https://arxiv.org/abs/2505.02118) [code](https://github.com/jugechengzi/Rationalization-A2I)    
 *__Wei Liu__, Zhongyu Niu, Lang Gao, Zhiying Deng, Jun Wang, Haozhao Wang, Ruixuan Li*  
   Conference: ICML 2025.
 
