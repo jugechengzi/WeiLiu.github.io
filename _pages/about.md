@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+This page won’t be updated anymore. Check out the new homepage at weiliu876.github.io.
+
 About me
 ====
 I am currently a postdoc at Huazhong University of Science and Technology (HUST). Previously, I received my Ph.D. from HUST in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
