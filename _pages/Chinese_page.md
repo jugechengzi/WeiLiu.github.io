@@ -8,6 +8,8 @@ excerpt: "My homepage in Chinese."
 
 我目前是华中科技大学的一名博士后研究员，研究方向为可信人工智能和大语言模型，合作老师为[曾志刚](http://faculty.hust.edu.cn/cengzhigang/zh_CN/index.htm)教授和[李瑞轩](http://idc.hust.edu.cn/rxli/index.html)教授。在此之前，我于2024年6月在获得华中科技大学计算机学院获得博士学位, 以及于2019年6月在华中科技大学机械学院获得学士学位。
 
+**本页面在一段时间后将不再维护，请前往新的主页weiliu876.github.io**
+
 教育经历
 ======
 2015.06-2019.06： 华中科技大学，机械科学与工程学院，机械设计制造及其自动化， 工学学士。  
